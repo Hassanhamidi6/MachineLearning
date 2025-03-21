@@ -8,3 +8,10 @@ In this we'll learn about the
 ,Linear Regresion 
 ,Gradient decent and Cost Function
 '''
+
+'''
+Cstegorical variables are of two types 
+-->Nominal (Order doesnot matter )
+-->Ordinal (Order matter )
+
+'''
